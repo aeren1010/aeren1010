@@ -1,4 +1,4 @@
-## Hi, I'm Eren 👋
+## Hi, I'm Qritich 👋
 - I'm a learning game artist and programmer.
 - My goal is to become a game designer.
 
