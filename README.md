@@ -1,5 +1,5 @@
-## Hi, I'm Critisch 👋
-- Aspiring Information Security Specialist
+## Hi, I'm Kaltmond 👋
+- Aspiring Security Consultant
 
 ### GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=critisch&theme=dracula)](https://github.com/critisch)
