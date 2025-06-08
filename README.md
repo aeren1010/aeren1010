@@ -1,5 +1,5 @@
 ## Hi, I'm Kaltmond 👋
-- Aspiring Security Consultant
+- I like Cyber Security and that stuff
 
 ### GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=critisch&theme=dracula)](https://github.com/critisch)
